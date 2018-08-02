@@ -1,8 +1,9 @@
 body {
-  	background-color:#ddd;font-size:13px;min-height:100%;
-  	background-image:url("http://www.kurogaze.net/wp-	content/uploads/2016/02/utahax.png"),url	("http://www.kurogaze.net/wp-	content/uploads/2016/02/eririn.png");
+	font-size:13px;min-height:100%;
+  	background-image:url(https://1.bp.blogspot.com/-RYhY5OjUC2k/W2L2EepwjCI/AAAAAAAABzc/sl2PrL5EohQMj2jnAMe0wkdjd6f4gbxKgCLcBGAs/s1600/38.png)
+	background-size:cover;
 	background-repeat:no-repeat;
-	background-position:top left,top right;
+    	background-attachment:fixed;
 }
 body iframe[src="about:blank"] {
   display: none;
